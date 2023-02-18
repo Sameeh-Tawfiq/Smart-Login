@@ -1,0 +1,1 @@
+var user = document.querySelector(".text p").innerHTML = `welcome ${localStorage.getItem("current-user")}`
